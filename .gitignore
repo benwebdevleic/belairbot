@@ -1,0 +1,4 @@
+env
+files/live
+config/*
+!config/.gitkeep
